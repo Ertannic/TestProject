@@ -19,5 +19,11 @@ class ViewController: UIViewController {
         
     }
     
+    func changeColor() {
+        
+        view.backgroundColor = .white
+        
+    }
+    
 }
 
