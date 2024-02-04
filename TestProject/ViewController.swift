@@ -25,5 +25,11 @@ class ViewController: UIViewController {
         
     }
     
+    func printText() {
+        
+        print("Hello World!")
+        
+    }
+    
 }
 
